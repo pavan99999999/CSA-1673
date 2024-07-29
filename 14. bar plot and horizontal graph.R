@@ -1,0 +1,5 @@
+a<-c(55,60,65,70,75,80,85)
+barplot(a)
+a<-c(55,60,65,70,75,80,85)
+barplot(a)
+barplot(a,horiz=TRUE)
